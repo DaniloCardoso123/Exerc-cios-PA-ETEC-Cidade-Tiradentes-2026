@@ -1,0 +1,1 @@
+# Exerc-cios-PA-ETEC-Cidade-Tiradentes-2026
