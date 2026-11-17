@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=Ss, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+    var ultimoDigito = prompt("Digite o último número da placa do veículo:");
+
+switch (parseInt(ultimoDigito)) {
+  case 1:
+  case 2:
+    alert("O veículo não pode circular na Segunda-feira.");
+    break;
+  case 3:
+  case 4:
+    alert("O veículo não pode circular na Terça-feira.");
+    break;
+  case 5:
+  case 6:
+    alert("O veículo não pode circular na Quarta-feira.");
+    break;
+  case 7:
+  case 8:
+    alert("O veículo não pode circular na Quinta-feira.");
+    break;
+  case 9:
+  case 0:
+    alert("O veículo não pode circular na Sexta-feira.");
+    break;
+  default:
+    alert(" Número inválido.");
+}
+    </script>
+</body>
+</html>

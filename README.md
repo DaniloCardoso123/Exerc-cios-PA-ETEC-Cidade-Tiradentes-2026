@@ -1,1 +1,1 @@
-# Exerc-cios-PA-ETEC-Cidade-Tiradentes-2026
+# Exerc-cios-Programa-o-e-Algor-timos-Etec-2026-
